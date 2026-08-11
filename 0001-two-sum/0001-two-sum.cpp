@@ -1,19 +1,17 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        
-        unordered_map<int, int> mp;   // value -> index
 
-        for (int i = 0; i < nums.size(); i++) {
+        unordered_map<int, int> mp;
 
-            int needed = target - nums[i];
+        for (int i = 0; i < size(nums); i++) {
 
-            // Check if the required number has already been seen
-            if (mp.find(needed) != mp.end()) {
-                return {mp[needed], i};
+            int req = target - nums[i];
+
+            if (mp.contains(req)) {
+                return {mp[req], i};
             }
 
-            // Store the current number and its index
             mp[nums[i]] = i;
         }
 
