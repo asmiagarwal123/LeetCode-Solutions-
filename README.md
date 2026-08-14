@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
+| [1796-second-largest-digit-in-a-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1796-second-largest-digit-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
+| [1796-second-largest-digit-in-a-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
