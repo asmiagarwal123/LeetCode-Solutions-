@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0383-ransom-note) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Trie
@@ -90,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
