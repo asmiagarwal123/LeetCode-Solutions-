@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
+| [0118-pascals-triangle](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 ## Manacher
 |  |
 | ------- |
