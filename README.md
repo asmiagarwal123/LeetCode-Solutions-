@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
