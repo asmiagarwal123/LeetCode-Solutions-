@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0383-ransom-note) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
