@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
+| [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
+| [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 ## Sliding Window
 |  |
 | ------- |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
@@ -174,4 +177,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
+| [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
