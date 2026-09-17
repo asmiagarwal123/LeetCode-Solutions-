@@ -2,36 +2,43 @@ class Solution {
 public:
     bool checkInclusion(string s1, string s2) {
 
-        if (s1.length() > s2.length())
+        if (s1.length() > s2.length()) {
             return false;
+        }
 
-        int count[26] = {0};
+        unordered_map<char, int> mpp;
 
-        for (char c : s1)
-            count[c - 'a']++;
+        for (char c : s1) {
+            mpp[c]++;
+        }
 
         int i = 0;
+        int j = s1.length() - 1;
 
-        for (int j = 0; j < s2.length(); j++) {
+        unordered_map<char, int> window;
 
-            count[s2[j] - 'a']--;
+        for (int k = i; k <= j; k++) {
+            window[s2[k]]++;
+        }
 
-            if (j - i + 1 > s1.length()) {
-                count[s2[i] - 'a']++;
-                i++;
-            }
+        while (j < s2.length()) {
 
-            bool match = true;
-
-            for (int k = 0; k < 26; k++) {
-                if (count[k] != 0) {
-                    match = false;
-                    break;
-                }
-            }
-
-            if (match)
+            if (mpp == window) {
                 return true;
+            }
+
+            window[s2[i]]--;
+
+            if (window[s2[i]] == 0) {
+                window.erase(s2[i]);
+            }
+
+            i++;
+            j++;
+
+            if (j < s2.length()) {
+                window[s2[j]]++;
+            }
         }
 
         return false;
