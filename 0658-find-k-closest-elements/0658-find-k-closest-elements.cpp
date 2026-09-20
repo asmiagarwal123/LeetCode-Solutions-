@@ -4,24 +4,30 @@ public:
 
         int n = arr.size();
 
-        int left = 0;
-        int right = n - k;
+        int bestStart = 0;
+        int minDistance = INT_MAX;
 
-        while (left < right) {
+        // Try every window of size k
+        for (int start = 0; start <= n - k; start++) {
 
-            int mid = left + (right - left) / 2;
+            int distance = 0;
 
-            if (x - arr[mid] > arr[mid + k] - x) {
-                left = mid + 1;
+            // Calculate total distance of this window from x
+            for (int i = start; i < start + k; i++) {
+                distance += abs(arr[i] - x);
             }
-            else {
-                right = mid;
+
+            // Keep the window with minimum distance
+            if (distance < minDistance) {
+                minDistance = distance;
+                bestStart = start;
             }
         }
 
+        // Build answer
         vector<int> ans;
 
-        for (int i = left; i < left + k; i++) {
+        for (int i = bestStart; i < bestStart + k; i++) {
             ans.push_back(arr[i]);
         }
 
