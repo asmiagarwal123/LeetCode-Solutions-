@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0424-longest-repeating-character-replacement) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0658-find-k-closest-elements) |
 | [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
@@ -135,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Number Theory
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 | [0658-find-k-closest-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -226,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0100-same-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
