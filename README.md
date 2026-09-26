@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0658-find-k-closest-elements) |
+| [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 ## Tree
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
