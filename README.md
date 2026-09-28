@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
+| [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [1768-merge-strings-alternately](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0005-longest-palindromic-substring) |
 | [0118-pascals-triangle](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 ## Manacher
 |  |
 | ------- |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
+| [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 ## Timsort
 |  |
@@ -213,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 ## Tree
 |  |
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
