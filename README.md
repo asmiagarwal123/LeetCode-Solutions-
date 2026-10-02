@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
+| [1598-crawler-log-folder](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
+| [1598-crawler-log-folder](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1796-second-largest-digit-in-a-string) |
 ## Divide and Conquer
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
+| [1598-crawler-log-folder](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1598-crawler-log-folder) |
 ## Tree
 |  |
 | ------- |
