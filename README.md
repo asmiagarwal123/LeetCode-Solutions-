@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0209-minimum-size-subarray-sum) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0066-plus-one) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
