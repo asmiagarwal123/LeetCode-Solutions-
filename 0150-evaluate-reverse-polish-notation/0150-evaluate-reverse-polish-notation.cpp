@@ -5,12 +5,11 @@ public:
         stack < int > st ; 
 
         for ( string token : tokens){
-              if (token != "+" && token != "-" &&
-                token != "/" && token != "*"){
-                st.push(stoi(token));
-            }
+            
+            if (token == "+" || token == "-" ||
+                token == "*" || token == "/") 
+                {
 
-            else{
                  int el1 = st.top();
                 st.pop();
 
@@ -34,13 +33,23 @@ public:
                     num= el2/el1;
 
                 }
-
                 st.push(num);
 
 
 
+                }
+
+
+            else {
+                    st.push(stoi(token));
+                }
+
+          
+
+
+
            }
-        }
+        
 
         return st.top();
         
