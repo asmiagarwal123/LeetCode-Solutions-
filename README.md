@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1598-crawler-log-folder](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2404-most-frequent-even-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/2404-most-frequent-even-element) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1796-second-largest-digit-in-a-string) |
+| [2404-most-frequent-even-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/2404-most-frequent-even-element) |
 ## Sorting
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0383-ransom-note) |
+| [2404-most-frequent-even-element](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/2404-most-frequent-even-element) |
 ## Quickselect
 |  |
 | ------- |
