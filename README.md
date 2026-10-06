@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0383-ransom-note) |
+| [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0011-container-with-most-water) |
+| [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 ## Timsort
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
+| [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
@@ -276,5 +279,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
