@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1598-crawler-log-folder](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1598-crawler-log-folder) |
 | [1768-merge-strings-alternately](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1768-merge-strings-alternately) |
 | [1796-second-largest-digit-in-a-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1796-second-largest-digit-in-a-string) |
+| [2315-count-asterisks](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/2315-count-asterisks) |
 ## Divide and Conquer
 |  |
 | ------- |
