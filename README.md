@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0424-longest-repeating-character-replacement) |
+| [0496-next-greater-element-i](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0567-permutation-in-string) |
 | [1796-second-largest-digit-in-a-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1796-second-largest-digit-in-a-string) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
@@ -281,5 +284,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
