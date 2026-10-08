@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
@@ -285,5 +287,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
