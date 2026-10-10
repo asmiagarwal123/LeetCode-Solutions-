@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -294,4 +295,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
