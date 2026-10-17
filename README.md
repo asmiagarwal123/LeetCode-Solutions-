@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0074-search-a-2d-matrix) |
 | [0304-range-sum-query-2d-immutable](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0304-range-sum-query-2d-immutable) |
 ## Union-Find
 |  |
