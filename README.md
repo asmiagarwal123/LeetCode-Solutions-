@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0268-missing-number) |
@@ -299,4 +301,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
