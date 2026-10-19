@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0881-boats-to-save-people) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1598-crawler-log-folder](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/1598-crawler-log-folder) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0374-guess-number-higher-or-lower) |
 | [0658-find-k-closest-elements](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/asmiagarwal123/LeetCode-Solutions-/tree/master/0875-koko-eating-bananas) |
 ## Prefix Sum
 |  |
 | ------- |
